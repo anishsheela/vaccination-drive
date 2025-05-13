@@ -1,4 +1,4 @@
-i# School Vaccination Portal
+# School Vaccination Portal
 
 A full-stack web application for managing and tracking vaccination drives in schools. The system allows school coordinators to manage student records, schedule vaccination drives, update vaccination statuses, and generate reports.
 
